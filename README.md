@@ -54,8 +54,6 @@ gcc hello.c -o hello
 
 For C++:
 
-```bash
-
 g++ hello.cpp -o hello
 
 ./hello
