@@ -36,24 +36,17 @@ This repo will help you install C/C++ and write your first programs. Perfect for
 🐧 Linux Installation Guide (Ubuntu/Debian)
 Run these commands:
 
-``bash
-
 sudo apt update
 
 sudo apt install build-essential
 
 Then check:
 
-bash
-
 gcc --version
 
 💻 How to Compile and Run
 
 For C:
-
-```bash
-
 
 gcc hello.c -o hello
 
@@ -78,7 +71,7 @@ int main() {
 }
 
 hello.cpp
-```bash
+
 #include <iostream>
 
 int main() {
