@@ -37,76 +37,70 @@ This repo will help you install C/C++ and write your first programs. Perfect for
 Run these commands:
 
 bash
-Copy
-Edit
+
 sudo apt update
+
 sudo apt install build-essential
+
 Then check:
 
 bash
-Copy
-Edit
+
 gcc --version
+
 💻 How to Compile and Run
+
 For C:
+
 bash
-Copy
-Edit
+
+
 gcc hello.c -o hello
+
 ./hello
+
 For C++:
+
 bash
-Copy
-Edit
+
 g++ hello.cpp -o hello
+
 ./hello
-🖼 Example image:
 
 🧪 Sample Programs
 hello.c
-c
-Copy
-Edit
+
 #include <stdio.h>
 
 int main() {
     printf("Hello, C world!\n");
     return 0;
 }
+
 hello.cpp
-cpp
-Copy
-Edit
+
 #include <iostream>
 
 int main() {
     std::cout << "Hello, C++ world!" << std::endl;
     return 0;
 }
+
 📺 Video Tutorials
 C Programming Full Course
 
 C++ Programming Full Course
 
 📁 Project Structure
-arduino
-Copy
-Edit
 Hello-C/
-
 ├── hello.c
-
 ├── hello.cpp
-
 ├── assets/
-
 │   ├── mingw-install.png
-
 │   ├── set-path.png
-
 │   └── compile-run.png
-
 └── README.md
+
 
 🤝 Contributing
 
