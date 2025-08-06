@@ -25,9 +25,6 @@ This repo will help you install C/C++ and write your first programs. Perfect for
 - Use default settings during setup
 
 
-🎥 Example video:  
-[![Install MinGW Video](https://img.youtube.com/vi/4d7RxZcT8kI/0.jpg)](https://www.youtube.com/watch?v=4d7RxZcT8kI)
-
 ---
 
 ### ✅ Step 2: Add MinGW to PATH
@@ -96,14 +93,23 @@ arduino
 Copy
 Edit
 Hello-C/
+
 ├── hello.c
+
 ├── hello.cpp
+
 ├── assets/
+
 │   ├── mingw-install.png
+
 │   ├── set-path.png
+
 │   └── compile-run.png
+
 └── README.md
+
 🤝 Contributing
+
 Want to improve this guide or add more examples? Fork the repo and send a pull request!
 
 📜 License
@@ -115,14 +121,6 @@ Edit
 
 ---
 
-### ✅ Next Steps for You:
-
-1. **Create `README.md`** in your repo and paste this content.
-2. **Create `assets/` folder** and add the images mentioned (or take screenshots yourself).
-3. (Optional) Replace the YouTube video links with your own tutorial if you want.
-
-
----
 
 ## 🍎 macOS Installation Guide
 
