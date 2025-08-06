@@ -93,12 +93,19 @@ C++ Programming Full Course
 
 📁 Project Structure
 Hello-C/
+
 ├── hello.c
+
 ├── hello.cpp
+
 ├── assets/
+
 │   ├── mingw-install.png
+
 │   ├── set-path.png
+
 │   └── compile-run.png
+
 └── README.md
 
 
