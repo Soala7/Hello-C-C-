@@ -36,7 +36,7 @@ This repo will help you install C/C++ and write your first programs. Perfect for
 🐧 Linux Installation Guide (Ubuntu/Debian)
 Run these commands:
 
-bash
+``bash
 
 sudo apt update
 
@@ -61,7 +61,7 @@ gcc hello.c -o hello
 
 For C++:
 
-bash
+```bash
 
 g++ hello.cpp -o hello
 
