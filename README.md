@@ -52,7 +52,7 @@ gcc --version
 
 For C:
 
-bash
+```bash
 
 
 gcc hello.c -o hello
@@ -78,7 +78,7 @@ int main() {
 }
 
 hello.cpp
-
+```bash
 #include <iostream>
 
 int main() {
