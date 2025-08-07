@@ -49,8 +49,8 @@ gcc --version
 C Programming Full Course
 
 C++ Programming Full Course
+<a href="https://www.youtube.com/watch?v=1PBD5qFWdq8&t=68s">link text</a>
 
-< a = href"https://www.youtube.com/watch?v=1PBD5qFWdq8&t=68s" >
 🤝 Contributing
 
 Want to improve this guide or add more examples? Fork the repo and send a pull request!
