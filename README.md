@@ -37,7 +37,8 @@ This repo will help you install C/C++ and write your first programs. Perfect for
 
 Run these commands:
 
--**sudo apt update**
+-**sudo apt update
+
 -**sudo apt install build-essential**
 
 Then check:
@@ -60,8 +61,7 @@ Want to improve this guide or add more examples? Fork the repo and send a pull r
 This project is licensed under the MIT License.
 
 yaml
-Copy
-Edit
+
 
 ---
 
