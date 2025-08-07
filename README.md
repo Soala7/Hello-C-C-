@@ -33,6 +33,8 @@ This repo will help you install C/C++ and write your first programs. Perfect for
 - Edit the `Path` variable
 - Add the path to the MinGW `bin` folder, e.g.:
 
+---
+
 🐧 Linux Installation Guide (Ubuntu/Debian)
 
 Run these commands:
@@ -45,6 +47,7 @@ Then check:
 
 **gcc --version**
 
+---
 📺 Video Tutorials
 
 <A href = "https://www.classcentral.com/classroom/freecodecamp-object-oriented-programming-oop-in-c-course-104967">C Programming Full Course</a>
@@ -53,9 +56,7 @@ Then check:
 
 <a href="https://www.youtube.com/watch?v=1PBD5qFWdq8&t=68s">C/C++ installing</a>
 
-🤝 Contributing
-
-Want to improve this guide or add more examples? Fork the repo and send a pull request!
+---
 
 📜 License
 This project is licensed under the MIT License.
