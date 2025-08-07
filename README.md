@@ -44,45 +44,13 @@ Then check:
 
 gcc --version
 
-💻 How to Compile and Run
-
-For C:
-
-gcc hello.c -o hello
-
-./hello
-
-For C++:
-
-g++ hello.cpp -o hello
-
-./hello
-
-🧪 Sample Programs
-hello.c
-
-#include <stdio.h>
-
-int main() {
-    printf("Hello, C world!\n");
-    return 0;
-}
-
-hello.cpp
-
-#include <iostream>
-
-int main() {
-    std::cout << "Hello, C++ world!" << std::endl;
-    return 0;
-}
 
 📺 Video Tutorials
 C Programming Full Course
 
 C++ Programming Full Course
 
-
+< a = href"https://www.youtube.com/watch?v=1PBD5qFWdq8&t=68s" >
 🤝 Contributing
 
 Want to improve this guide or add more examples? Fork the repo and send a pull request!
