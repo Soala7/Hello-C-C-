@@ -50,7 +50,7 @@ Then check:
 ---
 📺 Video Tutorials
 
-<A href = "https://www.classcentral.com/classroom/freecodecamp-object-oriented-programming-oop-in-c-course-104967">C Programming Full Course</a>
+<A href = "https://www.classcentral.com/classroom/freecodecamp-object-oriented-programming-oop-in-c-course-104967">C++ Programming Full Course</a>
 
 <a href = "https://www.classcentral.com/classroom/freecodecamp-c-programming-tutorial-for-beginners-57870">C Programming Full Course</a>
 
