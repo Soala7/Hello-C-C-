@@ -37,7 +37,7 @@ This repo will help you install C/C++ and write your first programs. Perfect for
 
 Run these commands:
 
--**sudo apt update
+-**sudo apt update**
 
 -**sudo apt install build-essential**
 
