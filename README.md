@@ -33,7 +33,7 @@ This repo will help you install C/C++ and write your first programs. Perfect for
 - Edit the `Path` variable
 - Add the path to the MinGW `bin` folder, e.g.:
 
-##🐧 Linux Installation Guide (Ubuntu/Debian)
+###🐧 Linux Installation Guide (Ubuntu/Debian)
 
 Run these commands:
 
@@ -45,7 +45,7 @@ Then check:
 gcc --version
 
 
-##📺 Video Tutorials
+###📺 Video Tutorials
 <A href = "https://www.classcentral.com/classroom/freecodecamp-object-oriented-programming-oop-in-c-course-104967">C Programming Full Course</a>
 
 <a href = "https://www.classcentral.com/classroom/freecodecamp-c-programming-tutorial-for-beginners-57870">C Programming Full Course</a>
