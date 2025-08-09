@@ -18,7 +18,7 @@ This repo will guide you through installing **C/C++** and running your first pro
 
 ---
 
-## 📺 Video & Course Tutorials
+📺 Video & Course Tutorials
 
 🎓 Learn C++ → <a href = "https://www.classcentral.com/classroom/freecodecamp-object-oriented-programming-oop-in-c-course-104967">C++ Programming Full Course (FreeCodeCamp)</a>
 
