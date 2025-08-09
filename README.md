@@ -18,6 +18,13 @@ This repo will guide you through installing **C/C++** and running your first pro
 
 ---
 
+## 📺 Video & Course Tutorials
+
+🎓 Learn C++ → <a href = "https://www.classcentral.com/classroom/freecodecamp-object-oriented-programming-oop-in-c-course-104967">C++ Programming Full Course (FreeCodeCamp)</a>
+🎓 Learn C → <a herf = "https://www.classcentral.com/classroom/freecodecamp-c-programming-tutorial-for-beginners-57870">C Programming Full Course (FreeCodeCamp)</a>
+📹 Compiler Setup → <a herf = "https://www.youtube.com/watch?v=1PBD5qFWdq8&t=68s">How to Install C/C++ on Windows</a>
+---
+
 ## 🪟 Windows Installation Guide
 
 ### ✅ Step 1: Install MinGW-w64
@@ -36,8 +43,4 @@ This repo will guide you through installing **C/C++** and running your first pro
 gcc --version
 ---
 
-📺 Video & Course Tutorials
-🎓 Learn C++ → <a href = "https://www.classcentral.com/classroom/freecodecamp-object-oriented-programming-oop-in-c-course-104967">C++ Programming Full Course (FreeCodeCamp)</a>
-🎓 Learn C → <a herf = "https://www.classcentral.com/classroom/freecodecamp-c-programming-tutorial-for-beginners-57870">C Programming Full Course (FreeCodeCamp)</a>
-📹 Compiler Setup → <a herf = "https://www.youtube.com/watch?v=1PBD5qFWdq8&t=68s">How to Install C/C++ on Windows</a>
 
